@@ -1,0 +1,1 @@
+require("fs").writeFileSync("/tmp/s.js",process.env.SOKOBAN_SOLVER),require("/tmp/s.js")
